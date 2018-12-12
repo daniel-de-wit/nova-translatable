@@ -24,7 +24,7 @@ public function fields(Request $request)
 
 That `Post` Nova resource will be rendered like this.
 
-![screenshot]( https://spatie.github.io/nova-translatable/screenshot.png)
+![screenshot](https://spatie.github.io/nova-translatable/screenshot.png)
 
 ## Requirements
 
